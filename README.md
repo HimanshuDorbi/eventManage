@@ -34,7 +34,7 @@ A comprehensive event management system built with modern tech stack. This full-
 
 ### Clone the Repository
 ```bash
-git clone https://github.com/HimanshuDorbi/event-management-project.git
+git clone https://github.com/HimanshuDorbi/eventManage.git
 cd event-management-project
 ```
 
