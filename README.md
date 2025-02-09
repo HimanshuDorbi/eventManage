@@ -2,6 +2,10 @@
 
 A comprehensive event management system built with modern tech stack. This full-stack application allows users to create, manage, and organize events efficiently.
 
+![Screenshot 2025-02-09 204411](https://github.com/user-attachments/assets/5ce10f78-ee5c-45e4-8f10-8f160ca8ba33)
+
+![Screenshot 2025-02-09 204445](https://github.com/user-attachments/assets/922f752f-02b0-4778-8fbe-56e9c4427efd)
+
 ## Features
 - User Authentication and Authorization
 - Event Creation and Event Management
